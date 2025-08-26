@@ -1,5 +1,9 @@
+
 :root {
   background-color: rgb(135, 206, 235);
+}
+body{
+	margin: 0px;
 }
 p:first-child{
 	background-color: black;
